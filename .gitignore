@@ -158,4 +158,4 @@ $RECYCLE.BIN/
 ._.DS_Store
 
 
-.dtbcache.*
+*.dtbcache.v2

@@ -5,6 +5,7 @@
 *.suo
 *.user
 *.sln.docstates
+.vs/
 
 # Build results
 Artifacts/
@@ -157,5 +158,3 @@ $RECYCLE.BIN/
 .DS_Store
 ._.DS_Store
 
-*.dtbcache.v2
-*.dtbcache.v2
